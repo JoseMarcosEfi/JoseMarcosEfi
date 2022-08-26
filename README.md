@@ -22,6 +22,8 @@
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SakakibaraKun&layout=compact)](https://github.com/SakakibaraKun/github-readme-stats)<br/>
 
 ## Ultimos Projetos:
+[Projeto Pessoal - Estudo de algoritmos na prática](https://github.com/SakakibaraKun/algoritmos)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=algoritmos)](https://github.com/SakakibaraKun/algoritmos)<br/>
 [Projeto DSVendas - Curso semana Spring React - Prof. Nélio alves](https://jm-dashboardproject.netlify.app/)<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=projeto-sds3)](https://github.com/SakakibaraKun/projeto-sds3)<br/>
 [Projeto TCC Faculdade - Em Progresso](https://github.com/SakakibaraKun/project-pidi5-cge)<br/>
