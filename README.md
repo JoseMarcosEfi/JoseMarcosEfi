@@ -15,11 +15,14 @@
   <img align="denter" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="denter" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="denter" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img align="denter" alt="Sql Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   <img align="denter" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="denter" alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="denter" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img align="denter" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
-  <img align="denter" alt="Netlify" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+  <img align="denter" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+  <img align="denter" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> 
+  
 </div><br/>
 
 
@@ -28,13 +31,12 @@
 ## Last Projects:
 [Course Project - Project ASP.Net Sales Web MVC- Instructor Nelio Alves](https://github.com/SakakibaraKun/SalesWebMvc)<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=SalesWebMvc)](https://github.com/SakakibaraKun/SalesWebMvc)<br/>
-[Personal Project - Study of algorithms in practice](https://github.com/SakakibaraKun/algoritmos)<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=algoritmos)](https://github.com/SakakibaraKun/algoritmos)<br/>
-[TCC Faculty Project - In Progress](https://github.com/SakakibaraKun/project-pidi5-cge)<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=project-pidi5-cge)](https://github.com/SakakibaraKun/project-pidi5-cge)<br/>
+[Course Project - Project ASP.Net IWantApp](https://github.com/SakakibaraKun/IWantApp)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=IWantApp)](https://github.com/SakakibaraKun/IWantApp)<br/>
+<br/>
 
 ## Current Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=SalesWebMvc)](https://github.com/SakakibaraKun/SalesWebMvc)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=IWantApp)](https://github.com/SakakibaraKun/IWantApp)<br/>
 <br/>
 ##
 ### "Hear advice and receive correction, that you may be wise in your last days." Proverbs 19:20
