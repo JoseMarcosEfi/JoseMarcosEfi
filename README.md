@@ -29,6 +29,8 @@
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SakakibaraKun&layout=compact)](https://github.com/SakakibaraKun/github-readme-stats)<br/>
 
 ## Last Projects:
+[Produto Api - Personal Project](https://github.com/SakakibaraKun/ProdutosApi)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=ProdutosApi)](https://github.com/SakakibaraKunProdutosApi)<br/>
 [Course Project - Project ASP.Net Sales Web MVC- Instructor Nelio Alves](https://github.com/SakakibaraKun/SalesWebMvc)<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=SalesWebMvc)](https://github.com/SakakibaraKun/SalesWebMvc)<br/>
 [Course Project - Project ASP.Net IWantApp](https://github.com/SakakibaraKun/IWantApp)<br/>
@@ -36,7 +38,7 @@
 <br/>
 
 ## Current Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=IWantApp)](https://github.com/SakakibaraKun/IWantApp)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=ProdutosApi)](https://github.com/SakakibaraKun/ProdutosApi)<br/>
 <br/>
 ##
 ### "Hear advice and receive correction, that you may be wise in your last days." Proverbs 19:20
