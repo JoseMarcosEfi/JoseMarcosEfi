@@ -1,10 +1,11 @@
-### Hi! I am José Marcos👋
+### Hello! I'm José Marcos👋
+<h5> I'm a passionate developer with expertise in .NET, Java, and Angular. With a full-stack skill set, I focus on building robust and efficient APIs. Continuously seeking to enhance my skills and apply best development practices, I am eager to contribute to challenging projects and be part of a dynamic team that values technical excellence.<h5/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-marcos-efigenio-b166b21a6/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jm-efi/)
 [![Linkedin](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/203262/jose-marcos-efigenio-da-silva)
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakakibaraKun&show_icons=true&theme=dark)
+ <a href="https://github.com/SakakibaraKun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SakakibaraKun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/SakakibaraKun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakakibaraKun&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ### Technologies I use and study
 <div style="display: inline_block">
@@ -16,24 +17,16 @@
   <img align="denter" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="denter" alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   
-  
-  
-</div><br/>
+  </div><br/>
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SakakibaraKun&layout=compact)](https://github.com/SakakibaraKun/github-readme-stats)<br/>
+## Top Projects:
+<a href="https://github.com/SakakibaraKun/CustomerApi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=CustomerApi&theme=buefy" />
+</a>
+<a href="https://github.com/SakakibaraKun/ProdutosApi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=ProdutosApi&theme=buefy" />
+</a>
 
-## Last Projects:
-[Produto Api - Personal Project](https://github.com/SakakibaraKun/ProdutosApi)<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=ProdutosApi)](https://github.com/SakakibaraKunProdutosApi)<br/>
-[Course Project - Project ASP.Net Sales Web MVC- Instructor Nelio Alves](https://github.com/SakakibaraKun/SalesWebMvc)<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=SalesWebMvc)](https://github.com/SakakibaraKun/SalesWebMvc)<br/>
-[Course Project - Project ASP.Net IWantApp](https://github.com/SakakibaraKun/IWantApp)<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=IWantApp)](https://github.com/SakakibaraKun/IWantApp)<br/>
-<br/>
 
-## Current Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=ProdutosApi)](https://github.com/SakakibaraKun/ProdutosApi)<br/>
-<br/>
-##
 ### "Hear advice and receive correction, that you may be wise in your last days." Proverbs 19:20
