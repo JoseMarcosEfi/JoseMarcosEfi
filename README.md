@@ -5,7 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/203262/jose-marcos-efigenio-da-silva)
 <br/>
 
- <a href="https://github.com/SakakibaraKun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SakakibaraKun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/SakakibaraKun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakakibaraKun&layout=compact&theme=buefy&hide_border=true" /></a> |
+ [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakakibaraKun&theme=dracula)](https://github.com/SakakibaraKun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakakibaraKun&layout=compact&theme=dracula)](https://github.com/SakakibaraKun/github-readme-stats)
+
+
 
 ### Technologies I use and study
 <div style="display: inline_block">
@@ -24,8 +27,8 @@
 <a href="https://github.com/SakakibaraKun/CustomerApi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=CustomerApi&theme=buefy" />
 </a>
-<a href="https://github.com/SakakibaraKun/ProdutosApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=ProdutosApi&theme=buefy" />
+<a href="https://github.com/SakakibaraKun/CustomerApiFront">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=CustomerApiFront&theme=buefy" />
 </a>
 
 
