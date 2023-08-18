@@ -5,8 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/203262/jose-marcos-efigenio-da-silva)
 <br/>
 
- [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakakibaraKun&theme=dracula)](https://github.com/SakakibaraKun/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakakibaraKun&layout=compact&theme=dracula)](https://github.com/SakakibaraKun/github-readme-stats)
+ [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarcosEfi&theme=dracula)](https://github.com/JoseMarcosEfi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarcosEfi&layout=compact&theme=dracula)](https://github.com/JoseMarcosEfi/github-readme-stats)
 
 
 
@@ -24,11 +24,11 @@
 
 
 ## Top Projects:
-<a href="https://github.com/SakakibaraKun/CustomerApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=CustomerApi&theme=buefy" />
+<a href="https://github.com/JoseMarcosEfi/CustomerApi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseMarcosEfi&repo=CustomerApi&theme=buefy" />
 </a>
-<a href="https://github.com/SakakibaraKun/CustomerApiFront">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SakakibaraKun&repo=CustomerApiFront&theme=buefy" />
+<a href="https://github.com/JoseMarcosEfi/CustomerApiFront">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseMarcosEfi&repo=CustomerApiFront&theme=buefy" />
 </a>
 
 
