@@ -1,8 +1,13 @@
 ### Hello! I'm José Marcos👋
-<h5> I am a Java developer. Additionally, I have knowledge in Angular and related technologies. My skill set is more focused on the backend, but I also understand how to consume APIs on the frontend (I can manage with some frontend frameworks). I have been focusing on learning how to build robust, efficient, and secure APIs. Continuously seeking to enhance my skills and apply best development practices, I am eager to contribute to challenging projects and be part of a dynamic team that values technical excellence.<h5/>
+<h5> I am a Java mid-level developer, specializing in the Spring ecosystem (Spring Boot, Spring Security, Spring Data, Spring MVC) for building efficient, scalable, and secure REST APIs. I actively work with relational databases and schema versioning using Liquibase, applying best practices such as Test First, SOLID principles, Design Patterns, and Clean Architecture.
+
+On the frontend, I use Angular to develop dynamic and responsive interfaces, integrating REST APIs with Angular HTTPClient and leveraging concepts like Angular Forms, validations, Standalone Components, and Bootstrap to optimize the user experience.
+
+I have experience in state management and authentication handling with JWT, as well as implementing caching, structured logging, and monitoring to enhance system performance and traceability. I am constantly improving my skills and applying best development practices, focusing on clean architecture, security, and code optimization.
+
+Currently, I am dedicated to refining my skills to tackle more complex technical challenges and contribute to the growth of innovative projects. 🚀.<h5/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jm-efi/)
-[![Linkedin](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/203262/jose-marcos-efigenio-da-silva)
 <br/>
 
  [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarcosEfi&theme=dracula)](https://github.com/JoseMarcosEfi/github-readme-stats)
